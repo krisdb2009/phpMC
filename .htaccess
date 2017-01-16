@@ -1,0 +1,2 @@
+php_value magic_quotes_gpc off
+php_value magic_quotes_runtime off
